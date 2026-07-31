@@ -1,0 +1,18 @@
+# Environments
+.env
+.venv
+env/
+venv/
+__pycache__/
+
+# Data & Checkpoints
+data/
+checkpoints/
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
